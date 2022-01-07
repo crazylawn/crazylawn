@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @crazylawn
-- 👀 I’m interested in javascript!
+- 👀 I’m interested in front-end!
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on you ~
 
